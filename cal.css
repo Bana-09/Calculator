@@ -1,0 +1,30 @@
+.container{
+     text-align: center;
+    
+}
+
+button{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    font-size: 35px;
+    background-color: rgb(66, 66, 66);
+    color: white;
+    border-style: none;
+    margin: 3px;
+    cursor: pointer;
+    
+}
+.rowfirst button{
+    background-color: rgb(167, 167, 167);
+    color: black;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.row input{
+    margin: 0;
+    padding: 15px 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 22px;
+}
